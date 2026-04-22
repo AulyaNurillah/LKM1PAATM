@@ -1,0 +1,6 @@
+@LKM1PAATM_HostAddress = http://localhost:5162
+
+GET {{LKM1PAATM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
